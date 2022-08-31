@@ -1,0 +1,16 @@
+tmp/*
+config/database.yml
+config/settings.local.yml
+config/master.key
+
+log/*
+!log/.keep
+
+.DS_Store
+.tags
+
+.vscode/*
+.ruby-version
+.ruby-version.*
+
+TAGS
